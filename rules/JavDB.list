@@ -1,24 +1,17 @@
-# JavDB 及相关站点 — 原策略：HK AUTO，已按站点分节
+# JavDB 及相关站点 — 策略：HK AUTO（非日本节点），已按用途分节
+# 日本节点专属规则在 JavDB-JP.list
 
-# JavDB
+# JavDB 核心
 DOMAIN-SUFFIX,jdforrepam.com
 DOMAIN-SUFFIX,c0.jdbstatic.com
-
-# Jable
-DOMAIN-SUFFIX,jable.tv
-
-# MissAV
-DOMAIN-SUFFIX,missav.ai
-
-# DMM
-DOMAIN-SUFFIX,pics.dmm.co.jp
-
-# MGStage
-DOMAIN-SUFFIX,image.mgstage.com
-
-# 其他相关站点
 DOMAIN-SUFFIX,tp.spfcas.com
+
+# 播放源
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,memojav.com
 DOMAIN-SUFFIX,javp.cc
 DOMAIN-SUFFIX,javp.cc.cd
+DOMAIN-SUFFIX,missav.ai
+
+# 预告片/元数据
 DOMAIN-SUFFIX,fourhoi.com
