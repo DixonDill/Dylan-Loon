@@ -1,0 +1,9 @@
+# JavDB 日本节点专属 — 策略：JP AUTO（必须日本节点），已按用途分节
+# 非日本节点规则在 Sex-HK.list
+
+# 封面拼接
+DOMAIN-SUFFIX,pics.dmm.co.jp
+DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp
+
+# 预告片/元数据
+DOMAIN-SUFFIX,image.mgstage.com
