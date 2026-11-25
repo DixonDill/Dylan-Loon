@@ -8,3 +8,16 @@ DOMAIN,ha2.dd.frcfwb.cn
 DOMAIN,ehapp2.dd.frcfwb.cn
 DOMAIN,cc.xn--zoomm.com
 DOMAIN,image.zhihuishu.com
+
+# Catbox / Litterbox
+DOMAIN,litterbox.catbox.moe
+DOMAIN,litter.catbox.moe
+
+# Uguu
+DOMAIN-SUFFIX,uguu.se
+
+# Paste
+DOMAIN,paste.c-net.org
+
+# 其他
+DOMAIN,111.9966hsck.cc
