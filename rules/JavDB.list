@@ -1,12 +1,24 @@
-# JavDB 及相关站点 — 原策略：HK AUTO
+# JavDB 及相关站点 — 原策略：HK AUTO，已按站点分节
+
+# JavDB
 DOMAIN-SUFFIX,jdforrepam.com
 DOMAIN-SUFFIX,c0.jdbstatic.com
-DOMAIN-SUFFIX,tp.spfcas.com
-DOMAIN-SUFFIX,pics.dmm.co.jp
+
+# Jable
 DOMAIN-SUFFIX,jable.tv
+
+# MissAV
+DOMAIN-SUFFIX,missav.ai
+
+# DMM
+DOMAIN-SUFFIX,pics.dmm.co.jp
+
+# MGStage
+DOMAIN-SUFFIX,image.mgstage.com
+
+# 其他相关站点
+DOMAIN-SUFFIX,tp.spfcas.com
 DOMAIN-SUFFIX,memojav.com
 DOMAIN-SUFFIX,javp.cc
 DOMAIN-SUFFIX,javp.cc.cd
-DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,fourhoi.com
-DOMAIN-SUFFIX,image.mgstage.com

@@ -3,7 +3,6 @@
 # 来源2：https://raw.githubusercontent.com/yuumimi/rules/release/loon/tiktok.txt
 # 快照日期：2026-11-25，上游更新不会自动同步
 
-# blackmatrix7
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -40,7 +39,6 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 
-# yuumimi 补充
 DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com

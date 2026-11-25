@@ -1,5 +1,13 @@
-# 音乐（网易云音乐 / QQ音乐 / 酷狗 / 酷我）— 原策略：DIRECT
+# 音乐 — 原策略：DIRECT，已按 APP 分节
+
+# 网易云音乐
 DOMAIN,music.163.com
+
+# QQ音乐
 DOMAIN,c.y.qq.com
+
+# 酷狗音乐
 DOMAIN,m.kugou.com
+
+# 酷我音乐
 DOMAIN,m.kuwo.cn

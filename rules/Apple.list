@@ -3,7 +3,6 @@
 # 来源2：https://raw.githubusercontent.com/yuumimi/rules/release/loon/apple.txt
 # 快照日期：2026-11-25，上游更新不会自动同步
 
-# blackmatrix7
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
@@ -48,7 +47,6 @@ IP-CIDR6,2403:300::/32,no-resolve
 IP-CIDR6,2620:149::/32,no-resolve
 IP-CIDR6,2a01:b740::/32,no-resolve
 
-# yuumimi 补充
 DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,apple.com.akadns.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net

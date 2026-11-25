@@ -1,16 +1,14 @@
-# NAME: DouYin
-# AUTHOR: catiz
-# REPO: https://github.com/catiz/loon_douyin_rule
-# UPDATED: 2025-03-27 18:30:40
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 24
-# TOTAL: 29
+# Douyin（抖音）— 来源：catiz/loon_douyin_rule，已按类型分节；原文 DOMAIN-SUFFIX,snssdk.com 重复出现 2 次，已去重
+# 快照日期：2026-11-25，上游更新不会自动同步
 
+# 关键词
 DOMAIN-KEYWORD,byte
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,huoshan
 DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,toutiao
+
+# 域名后缀
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ndcpp.com
@@ -34,4 +32,3 @@ DOMAIN-SUFFIX,tiapi.cn
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
