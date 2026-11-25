@@ -13,8 +13,8 @@ Dylan 的 Loon 分流规则与插件仓库。所有规则内容都镜像/合并�
 本地规则按软件拆分：
 
 - Music（DIRECT）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Music.list
-- JavDB（HK AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/JavDB.list
-- JavDB-JP（JP AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/JavDB-JP.list
+- Sex-HK（HK AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Sex-HK.list
+- Sex-JP（JP AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Sex-JP.list
 - Bybit（JP AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Bybit.list
 - LAN（DIRECT）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/LAN.list
 - Misc（DIRECT）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Misc.list
