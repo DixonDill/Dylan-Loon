@@ -1,0 +1,12 @@
+#!name=示例插件（模板）
+#!desc=插件模板：复制本文件改名后，改成你自己的插件内容
+#!author=DixonDill
+#!homepage=https://github.com/DixonDill/Dylan-Loon
+
+[Script]
+# 脚本示例（默认注释停用，去掉行首 # 并换成真实脚本地址后生效）
+# http-request ^https?:\/\/example\.com\/api script-path=https://example.com/script.js, requires-body=false, tag=示例脚本
+
+[MITM]
+# 需要解密的域名示例
+# hostname = example.com
