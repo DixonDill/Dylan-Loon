@@ -19,3 +19,8 @@ DOMAIN-SUFFIX,fourhoi.com
 # 零散站点（原 Misc-HK）
 DOMAIN,www.hjzhencai.top
 DOMAIN,www.mihdr.top
+
+# Hanime
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,iili.io
