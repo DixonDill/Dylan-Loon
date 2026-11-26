@@ -12,7 +12,6 @@ Dylan 的 Loon 分流规则与插件仓库。所有规则内容都镜像/合并�
 
 本地规则按软件拆分：
 
-- Music（DIRECT）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Music.list
 - Sex-HK（HK AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Sex-HK.list
 - Sex-JP（JP AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Sex-JP.list
 - Bybit（JP AUTO）：https://cdn.jsdelivr.net/gh/DixonDill/Dylan-Loon@main/rules/Bybit.list
